@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center">
+   ☔ <a href="#">Climate Now</a> 
+   <br>
+   <img src=https://img.shields.io/badge/Front--End-React.ts-blue></img>
+   <img src=https://img.shields.io/badge/API-Weather--API-blue></img>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</h1>
 
-## Available Scripts
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#como-executar-o-projeto">Como Executar o Projeto</a> •
+ <a href="#imagens">Imagens</a> •
+ <a href="#feito-com">Feito com</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-In the project directory, you can run:
+## Sobre
 
-### `npm start`
+Desenvolvi esse projeto para execitar meus conhecimos em React e Typescript.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<hr>
 
-### `npm test`
+## Como Executar o Projeto ?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>Para executar o projeto, siga os seguintes passos:</p>
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Abra o terminal dentro da pasta do projeto e execute o comando "npm run start"
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>Após isso acesse a URL localhost:3000</p>
 
-### `npm run eject`
+<hr>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Imagens
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div>
+<h4>Tela principal</h4>
+<img src="prints/01.png" alt="01">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+</div>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Recursos
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [x] React Components
+      <br>
+- [x] React Hooks
+      <br>
+- [x] Requisições com axios
+      <br>
+- [x] API Weather
+      <br>
+- [x] Biblioteca SweetAlert
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+<hr>
+
+## Feito com
+<div>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">   
+</div>
+
+<hr>
+
+## Autor
+
+<a href="https://github.com/lucasMSF">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/lucasmsf" width="100px;" alt="Lucas Mathias de Souza Farias"/>
+ <br />
+ <sub><b>Lucas Mathias</b></sub></a> 
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mathias-729a27181/)](https://www.linkedin.com/in/lucas-mathias-729a27181/)
+[![Gmail Badge](https://img.shields.io/badge/-lucasmathias936@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmathias936@gmail.com)](mailto:lucasmathias936@gmail.com)
