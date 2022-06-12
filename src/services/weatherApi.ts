@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = '3bf01bc214d0479d90b183714221206';
+const KEY = process.env.REACT_APP_API_KEY;
 
 export const getclimate = async (city: string): Promise<any> => {
     const URL = `http://api.weatherapi.com/v1/current.json?key=${KEY}&q=${city}`;
