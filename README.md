@@ -55,7 +55,6 @@ O React é uma biblioteca JavaScript de código aberto com foco em criar interfa
       <br>
 - [x] API Weather
       <br>
-- [x] Biblioteca SweetAlert
 
 
 <hr>
