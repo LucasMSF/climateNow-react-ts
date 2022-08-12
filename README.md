@@ -36,6 +36,20 @@ O React é uma biblioteca JavaScript de código aberto com foco em criar interfa
 
 <hr>
 
+## Link para o Deploy 
+
+<a href="https://climate-now-react-ts.netlify.app/">Aqui</a>
+
+<br>
+
+* Abra o terminal dentro da pasta do projeto e execute o comando "npm run start"
+
+<br>
+
+<p>Após isso acesse a URL localhost:3000</p>
+
+<hr>
+
 ## Imagens
 
 <div>
